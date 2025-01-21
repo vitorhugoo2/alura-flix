@@ -1,6 +1,24 @@
+📽️ Aluraflix
+
 AluraFlix Challenge
 Descrição do Projeto
 O AluraFlix é um projeto desenvolvido como parte do último desafio da formação em desenvolvimento frontend do projeto ONE, uma iniciativa da Oracle em parceria com a Alura. Este site tem como objetivo proporcionar uma experiência semelhante ao Netflix, mas focado em vídeos educativos sobre tecnologia e programação oferecidos pela Alura1.
+
+🧩 Como Rodar o Projeto
+Clonar este repositório:
+b
+
+Copiar
+
+Editar
+git clone https://github.com/seu-usuario/aluraflix.git
+Navegue até a pasta do projeto:
+
+Copiar
+
+Editar
+cd aluraflix
+Abra o arquivoindex.htmlsem navegação
 
 Objetivo
 Ser uma plataforma educativa intuitiva e acessível, oferecendo um vasto acervo de vídeos da Alura para fomentar o aprendizado contínuo em tecnologia e programação.

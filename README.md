@@ -11,7 +11,7 @@ b
 Copiar
 
 Editar
-git clone https://github.com/vitorhugoo2/aluraflix.git
+git clone https://github.com/vitorhugoo2/alura-flix
 Navegue até a pasta do projeto:
 
 Copiar

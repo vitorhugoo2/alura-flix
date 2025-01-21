@@ -53,4 +53,4 @@ Vá até a homepage e seu vídeo estará listado.
 
 Caso queira editar alguma informação do card, clique em "EDITAR" no próprio card e o modal de edição abrirá.
 
-### Resultado: https://alura-flix-snowy.vercel.app/
+### Resultado: https://alura-flix-teal-eight.vercel.app
